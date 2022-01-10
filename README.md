@@ -25,4 +25,4 @@ Vote: Anna<br />
 Vote: Daniel<br />
 Anna<br />
 
-Anna is the winner of this plurality election.
+The program will declare Anna as the winner of this plurality election.
